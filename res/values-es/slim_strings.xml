@@ -123,4 +123,8 @@
     <string name="choose_reverse_lookup_provider_title">Seleccionar proveedores de búsquedas inversas</string>
     <string name="choose_people_lookup_provider_title">Seleccionar proveedor de búsqueda de personas</string>
 
+    <!-- Smart Phone Call -->
+    <string name="smart_phone_call_title">Llamada inteligente</string>
+    <string name="smart_phone_call_summary">Usa tu audífono, y esto llamará automáticamente al número actual en mensajería o teléfono</string>
+
 </resources>

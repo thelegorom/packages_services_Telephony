@@ -151,4 +151,8 @@
     <string name="exportAllcontatsSuccess">Succesfully exported all contacts to SIM </string>
     <string name="exportAllcontatsFailed">Failed to export all contacts to SIM !!!</string>
     <string name="cursorError">Cursor is not having proper data !!! </string>
+
+    <!-- Smart Phone Call -->
+    <string name="smart_phone_call_title">Smart phone call</string>
+    <string name="smart_phone_call_summary">Put on your ear, and this will automatically call current number in message or dialer</string>
 </resources>
