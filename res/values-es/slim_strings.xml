@@ -131,8 +131,8 @@
     <string name="preferred_network_mode_td_scdma_only">Sólo TD-SCDMA</string>
     <string name="preferred_network_mode_evdo_only">Sólo EvDo</string>
     <string name="preferred_network_mode_cdma_without_evdo">CDMA sin EvDo</string>
-    <string name="preferred_network_mode_cdma_evdo_auto">auto CDMA/EvDo</string>
-    <string name="preferred_network_mode_gsm_wcdma_auto">auto GSM/WCDMA</string>
+    <string name="preferred_network_mode_cdma_evdo_auto">Auto CDMA/EvDo</string>
+    <string name="preferred_network_mode_gsm_wcdma_auto">Auto GSM/WCDMA</string>
     <string name="preferred_network_mode_wcdma_only">Sólo WCDMA</string>
     <string name="preferred_network_mode_gsm_only">Sólo GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_preferred">GSM/WCDMA preferido</string>
