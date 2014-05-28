@@ -74,8 +74,7 @@
 
     <!-- Incall Glowpad transparency -->
     <string name="glow_bg_trans">Llamada entrante</string>
-    <string name="glow_bg_trans_summary">Fondo del panel de respuesta transparente al recibir llamad
-as para que la imágen del contacto se vea completa</string>
+    <string name="glow_bg_trans_summary">Fondo del panel de respuesta transparente al recibir llamadas para que la imágen del contacto se vea completa</string>
 
     <!-- Sprint MWI Quirk: Phantom message wait indicator workaround -->
     <string name="mwi_notification_title">Indicador de mensaje de espera</string>
